@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "id": "78912379812",
+            "tagname": "a-plane",
+            "comment": "",
+            "position": "0  -0,5  0.5",
+            "color": "#46aa8c",
+            "opacity": 0.5,
+            "sizexyz": "1 1 0 ",
+            "rotation": "-90 0 0",
+            "scale": 1,
+            "repeat": "0 1 0",
+            "repeatsteps": "1.0 1.0 1.0"
+        },
+        {
+            "id": "1648292144352",
+            "tagname": "a-plane",
+            "comment": "",
+            "position": "0.0 0 0.0",
+            "color": "#4545aa",
+            "opacity": 1,
+            "sizexyz": " 1 1 0 ",
+            "rotation": "0 0 0",
+            "scale": 1,
+            "repeat": "0 0 1",
+            "repeatsteps": "0 0 1"
+        },
+        {
+            "id": "1648732679989",
+            "tagname": "a-plane",
+            "comment": "",
+            "position": "0,5  0 ,5 0 ",
+            "color": "#8246aa",
+            "opacity": 1,
+            "sizexyz": "1 1 0 ",
+            "rotation": "0 90 0 ",
+            "scale": 1,
+            "repeat": "1 0 0",
+            "repeatsteps": "-1 0 0 "
+        }
+    ],
+    "config": {
+        "title": "Title of 3D Model",
+        "json_file": "model3d.json",
+        "globalscale": "1.0",
+        "globalmove": "0.0 0.0 0.0",
+        "globalrotate": "0.0 0.0 0.0",
+        "marker": "hiro",
+        "titlemodel": "Model 3D",
+        "dataid": "json3d4aframe",
+        "use_aframe_sky": "N",
+        "aframe_sky_file": "https://niebert.github.io/HuginSample/img/cloud_grass.jpg",
+        "use_aframe_plane": "N",
+        "aframe_plane_color": "#7BC8A4"
+    }
+}
